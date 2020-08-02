@@ -5,3 +5,4 @@
 4. Efficiency comparison: file keyword_match.py, function merge_MGH_together(), merge_BWH_together()
 5. Select keyword/deeplearning failure cases for analysis. File keyword_match.py, function: failure_analysis_sample_100_for_keyword_and_deep_learning()
 6. Author response allergic event time series. File allergic_distribution_with_time.py, function main.
+7. Extract common reactions in positive cases: file common_reactions.py, function: extract_key_reactions_from_validated_cases() .xlsx as input.
